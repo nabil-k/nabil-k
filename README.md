@@ -1,5 +1,5 @@
 ![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabil-k&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-k)](https://github.com/nabil-k/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-k&theme=tokyonight)](https://github.com/nabil-k/github-readme-stats)
 
 
 <!--
