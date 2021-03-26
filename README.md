@@ -9,7 +9,8 @@ My name is Nabil and I am currently a Computer Science student at the University
 <br/>
 <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=nabil-k&show_icons=true&theme=tokyonight"/>
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight""/>
-
+| Command | Description |
+| --- | --- |
 <!--
 **nabil-k/nabil-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
