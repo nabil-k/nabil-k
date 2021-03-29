@@ -19,6 +19,13 @@ My name is Nabil and I am currently a Computer Science student at the University
 | React | NodeJS | MongoDB|
 | Angular | Django | MySQL  |
 
+<br/>
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 
 <!--
 **nabil-k/nabil-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
