@@ -14,11 +14,10 @@ My name is Nabil and I am currently a Computer Science student at the University
 </p>
 <br/><br/>
 <p>Skills</p>
-| Frontend  | Backend | DBMS  |
-| ----------|---------|------ |
-| React     | NodeJS  |MongoDB|
-| Angular   | Django  |MySQL  |
-|           | Flask   |       |
+| Frontend  | Backend | DBMS |
+| --- | --- | --- |
+| React | NodeJS | MongoDB|
+| Angular | Django | MySQL  |
 
 
 <!--
