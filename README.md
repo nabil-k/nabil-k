@@ -12,9 +12,10 @@ My name is Nabil and I am currently a Computer Science student at the University
   <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=nabil-k&show_icons=true&theme=tokyonight"/>
   <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 </p>
-<br/><br/>
+<br/>
+<br/>
 <p>Skills</p>
-| Frontend  | Backend | DBMS |
+| Frontend | Backend | DBMS |
 | --- | --- | --- |
 | React | NodeJS | MongoDB|
 | Angular | Django | MySQL  |
