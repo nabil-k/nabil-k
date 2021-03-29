@@ -14,11 +14,6 @@ My name is Nabil and I am currently a Computer Science student at the University
   <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 </p>
 
-| Frontend | Backend | DBMS |
-| --- | --- | --- |
-| React | NodeJS | MongoDB |
-| Angular | Django | MySQL |
-
 
 <!--
 **nabil-k/nabil-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
