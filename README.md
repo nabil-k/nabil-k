@@ -15,7 +15,7 @@ My name is Nabil and I am currently a Computer Science student at the University
    
 <br/>   
 <br/>  
-<p align="center">Skills</p>
+<h2>Skills</h2>
 
 | Frontend | Backend | DBMS |
 | --- | --- | --- |
