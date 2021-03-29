@@ -8,11 +8,12 @@ My name is Nabil and I am currently a Computer Science student at the University
 <!-- Here you can see the languages I use the most!  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-k&theme=tokyonight)](https://github.com/nabil-k/github-readme-stats) -->
 <br/>
+
 <p align="middle">
   <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=nabil-k&show_icons=true&theme=tokyonight"/>
   <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
-</p>  
-\
+</p>\
+
 <br/>  
 <br/>  
 <h2>Skills</h2>  
