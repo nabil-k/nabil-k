@@ -15,19 +15,13 @@ My name is Nabil and I am currently a Computer Science student at the University
    
 <br/>   
 <br/>  
-<p>Skills</p>
-| Frontend | Backend | DBMS |
-| --- | --- | --- |
-| React | NodeJS | MongoDB|
-| Angular | Django | MySQL  |
-
-<br/>
-
+<p align="center">Skills</p>
+<p align="center">
 | Frontend | Backend | DBMS |
 | --- | --- | --- |
 | React | NodeJS | MongoDB |
 | Angular | Django | MySQL |
-
+</p>
 
 <!--
 **nabil-k/nabil-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
