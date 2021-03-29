@@ -23,10 +23,10 @@ My name is Nabil and I am currently a Computer Science student at the University
 
 <br/>
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Frontend | Backend | DBMS |
+| --- | --- | --- |
+| React | NodeJS | MongoDB |
+| Angular | Django | MySQL |
 
 
 <!--
