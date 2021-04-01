@@ -10,8 +10,8 @@ My name is Nabil and I am currently a Computer Science student at the University
 <br/>
 
 <p align="middle">
-  <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=nabil-k&show_icons=true&theme=tokyonight"/>
-  <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-k&layout=compact&theme=tokyonight&hide=Tcl,CSS"/>
+  <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=nabil-k&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-k&layout=compact&theme=tokyonight&hide=Tcl,CSS&count_private=true"/>
 </p>
 
 
